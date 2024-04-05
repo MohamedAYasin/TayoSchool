@@ -1,3 +1,5 @@
+# Tayo School
+
 
 
 ## This is a summative assignment
@@ -9,9 +11,9 @@
 
 ## Visit our website:
 
-- [ExploreConnect](https:///)
+- [Tayo School](https://mohamedayasin.github.io/TayoSchool/)
 
-<h2 id="contributors">Contributors 👥</h2>  
+<h2 id="created by:">Created by: 👥</h2>  
 
 - [Mohamed Ahmed Yasin](https://github.com/MohamedAYasin)
 

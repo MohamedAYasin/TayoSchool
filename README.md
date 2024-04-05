@@ -6,12 +6,10 @@
 
 ## This is a summative assignment
 
-- In this assignment, I created a website following the below scenario:
-
-## Part I. Website
+- In this assignment, I created Tayo School, an online vocational school for women that provides vocational courses in different areas such as, tailoring, plumbing, makeup and beauty, IT and culinary arts.
 
 
-## Visit our website:
+## Visit the live website:
 
 - [Tayo School](https://mohamedayasin.github.io/TayoSchool/)
 

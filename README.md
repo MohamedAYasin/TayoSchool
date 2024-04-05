@@ -1,6 +1,6 @@
 # Tayo School
 
-
+![tayoschooool](https://github.com/MohamedAYasin/TayoSchool/assets/116743995/8cb9b5bd-6632-4c67-a926-778d02a5031a)
 
 ## This is a summative assignment
 
